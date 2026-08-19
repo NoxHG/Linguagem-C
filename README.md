@@ -13,4 +13,3 @@ Ferraments ultilziadas:
   - Git  
   - MSYS2  
   - MSYS2 UCRT64  
-
