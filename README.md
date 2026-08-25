@@ -74,18 +74,15 @@ Avançado
 ## 🗂️ Estrutura do Repositório
 
 Linguagem-C/  
-│  
 ├── C/  
 │   ├── Aulas/  
 │   │   ├── Arquivos-C/  
 │   │   └── Executaveis/  
-│   │  
 │   ├── Exercicios/  
-│   │  
 │   └── Projetos/  
-│  
 ├── LICENSE  
-└── README.md  
+└── README.md
+
 
 ### 📁 Organização
 
