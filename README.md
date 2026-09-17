@@ -93,23 +93,6 @@ Linguagem-C/
 | `Executaveis/` | Programas compilados                                 |
 | `Exercicios/`  | Exercícios de prática                                |
 | `Projetos/`    | Projetos maiores desenvolvidos durante o aprendizado |
-
----
-
-## ⚙️ Compilação
-
-Os programas podem ser compilados utilizando o **GCC** através do MSYS2 UCRT64.
-
-```bash
-gcc programa.c -o programa.exe
-```
-
-Para executar:
-
-```bash
-./programa.exe
-```
-
 ---
 
 ## 🎯 Objetivo do Repositório
